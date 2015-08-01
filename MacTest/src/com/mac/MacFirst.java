@@ -9,7 +9,7 @@ public class MacFirst {
 		int k=50;
 		System.out.println(k>50?"yes": "no");
 		
-		String[] items = {"adsf", "werwe", "wrwerw"};
+		String[] items = {"adsfghjghjg", "werwe", "wrwerw"};
 		for(String s :items){
 			System.out.println("item:"+s);
 		}
